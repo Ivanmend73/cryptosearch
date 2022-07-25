@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cryptosearch/static/css/main.43a376f6.css",
+    "main.js": "/cryptosearch/static/js/main.2a089cad.js",
+    "index.html": "/cryptosearch/index.html",
+    "main.43a376f6.css.map": "/cryptosearch/static/css/main.43a376f6.css.map",
+    "main.2a089cad.js.map": "/cryptosearch/static/js/main.2a089cad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43a376f6.css",
+    "static/js/main.2a089cad.js"
+  ]
+}
