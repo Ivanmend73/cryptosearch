@@ -1,0 +1,11 @@
+.App {
+  color: aliceblue;
+  height: auto;
+  padding-bottom: 40px;
+  background: linear-gradient(
+    90deg,
+    rgba(238, 69, 64, 1)0%,
+    rgba(128, 19, 54, 1)30%,
+    rgba(45, 20, 44, 1)100%
+  );
+}
